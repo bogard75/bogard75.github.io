@@ -3,3 +3,5 @@ description: Midnight is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
+url: "https://bogard75.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "" # the subpath of your site, e.g. "/blog"
